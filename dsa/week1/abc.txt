@@ -1,0 +1,12 @@
+xjcvndk
+hello all i'm there
+
+Now, the loop with strsep is used to extract and print all words from each line. The outer loop reads each line using fgets, and the inner loop processes each word on that line until strsep returns NULL. This way, all words on a line will be printed separately.
+
+
+
+
+
+
+
+
